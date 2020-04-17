@@ -1,2 +1,5 @@
 # hello-world2
-README is recommended
+
+Hi All!
+
+Bob here. Stay safe.
